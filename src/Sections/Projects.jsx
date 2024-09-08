@@ -8,7 +8,7 @@ import figma from "../Assets/project6.png";
 
 function Projects() {
   return (
-    <section className="py-12 space-y-12">
+    <section className="py-16 space-y-12">
       <div className="flex flex-col text-center">
         <div className="space-y-2">
           <div className="inline-block bg-neutral-900 text-white text-sm rounded-lg px-3 py-1">

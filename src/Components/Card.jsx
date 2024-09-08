@@ -18,7 +18,9 @@ function Card({
         <div className="space-y-1">
           <h3 className="font-semibold mt-1">{name}</h3>
           <div className="text-xs">{date}</div>
-          <div className="text-neutral-500 text-xs">{description}</div>
+          {description !== "" && (
+            <div className="text-neutral-500 text-xs">{description}</div>
+          )}
         </div>
       </div>
       <div className="flex flex-col text-neutral-500 text-sm px-2 mt-auto">
