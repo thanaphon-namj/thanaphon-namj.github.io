@@ -3,6 +3,7 @@ import About from "./Sections/About";
 import Education from "./Sections/Education";
 import Skills from "./Sections/Skills";
 import Projects from "./Sections/Projects";
+import Certificates from "./Sections/Certificates";
 import Contact from "./Sections/Contact";
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
         <Education />
         <Skills />
         <Projects />
+        <Certificates />
         <Contact />
       </div>
     </div>
