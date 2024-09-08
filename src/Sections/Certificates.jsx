@@ -19,24 +19,28 @@ function Certificates() {
           name="English B1.1 - Speexx"
           date="Issued Jul 2024"
           skills={["English"]}
+          download="https://drive.google.com/file/d/1l9pCAZaq6xYkNvyFLjPRpKwFMhtuTo8u/view?usp=sharing"
           image={englishb}
         />
         <Card
           name="English A2 - Speexx"
           date="Issued Jul 2024"
           skills={["English"]}
+          download="https://drive.google.com/file/d/1fQIgInwBgBk4xKaM-KIbV7aLW7AAB1q8/view?usp=sharing"
           image={englisha}
         />
         <Card
           name="Basic Cybersecurity - NCSA Mooc"
           date="Issued Mar 2024"
           skills={["Cybersecurity"]}
+          download="https://drive.google.com/file/d/1K17BwOZFOW9x8cTP7Is5cHq8-2ZV11J_/view?usp=sharing"
           image={basiccyber}
         />
         <Card
           name="RPA Developer Foundation - UIPath"
           date="Issued Oct 2023"
           skills={["RPA", "UiPath"]}
+          download="https://drive.google.com/file/d/1LVRL4L5mtoZcdvIi6zK5EdvCLUx7HU8X/view?usp=sharing"
           image={rpa}
         />
       </div>

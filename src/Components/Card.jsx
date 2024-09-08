@@ -7,6 +7,7 @@ function Card({
   skills = [],
   url = "",
   git = "",
+  download = "",
   image = null,
 }) {
   return (
@@ -34,7 +35,7 @@ function Card({
         {url !== "" && (
           <div className="flex">
             <a href={url} target="_blank">
-              <div className="flex bg-neutral-900 font-semibold text-white text-[10px] border border-transparent rounded-md hover:bg-neutral-900/80 gap-2 px-2 py-1">
+              <div className="flex items-center bg-neutral-900 font-semibold text-white text-[10px] border border-transparent rounded-md hover:bg-neutral-900/80 gap-2 px-2 py-1">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="24"
@@ -59,7 +60,7 @@ function Card({
         {git !== "" && (
           <div className="flex">
             <a href={git} target="_blank">
-              <div className="flex bg-neutral-900 font-semibold text-white text-[10px] border border-transparent rounded-md hover:bg-neutral-900/80 gap-2 px-2 py-1">
+              <div className="flex items-center bg-neutral-900 font-semibold text-white text-[10px] border border-transparent rounded-md hover:bg-neutral-900/80 gap-2 px-2 py-1">
                 <svg viewBox="0 0 438.549 438.549" className="size-3">
                   <path
                     fill="currentColor"
@@ -67,6 +68,31 @@ function Card({
                   />
                 </svg>
                 Source
+              </div>
+            </a>
+          </div>
+        )}
+        {download !== "" && (
+          <div className="flex">
+            <a href={download} target="_blank">
+              <div className="flex items-center bg-neutral-900 font-semibold text-white text-[10px] border border-transparent rounded-md hover:bg-neutral-900/80 gap-2 px-2 py-1">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  className="size-3"
+                >
+                  <circle cx="12" cy="12" r="10" />
+                  <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20" />
+                  <path d="M2 12h20" />
+                </svg>
+                Download
               </div>
             </a>
           </div>
