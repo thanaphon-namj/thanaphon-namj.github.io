@@ -2,6 +2,7 @@ import Intro from "./Sections/Intro";
 import About from "./Sections/About";
 import Education from "./Sections/Education";
 import Skills from "./Sections/Skills";
+import Projects from "./Sections/Projects";
 import Contact from "./Sections/Contact";
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
         <About />
         <Education />
         <Skills />
+        <Projects />
         <Contact />
       </div>
     </div>

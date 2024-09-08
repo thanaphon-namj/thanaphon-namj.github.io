@@ -32,7 +32,7 @@ function Education() {
                     strokeLinejoin="round"
                     className="size-4 opacity-0 group-hover:opacity-100 ease-out duration-300 group-hover:translate-x-1"
                   >
-                    <path d="m9 18 6-6-6-6"></path>
+                    <path d="m9 18 6-6-6-6" />
                   </svg>
                 </h3>
                 <div className="text-neutral-500 text-xs sm:text-sm text-right tabular-nums">
