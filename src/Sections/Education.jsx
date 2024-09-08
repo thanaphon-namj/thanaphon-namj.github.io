@@ -4,7 +4,11 @@ function Education() {
   return (
     <section className="flex flex-col gap-y-3">
       <h2 className="font-bold text-xl">Education</h2>
-      <a href="https://www.bu.ac.th" className="block cursor-pointer">
+      <a
+        href="https://www.bu.ac.th"
+        className="block cursor-pointer"
+        target="_blank"
+      >
         <div className="flex">
           <div className="flex-none">
             <div className="flex size-12 border rounded-full overflow-hidden p-2">
