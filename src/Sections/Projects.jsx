@@ -27,7 +27,7 @@ function Projects() {
         <Card
           name="Coffee Shop Management System Web Application"
           date="Aug 2024 - Present"
-          description="Senior Project - Design and Develop"
+          description="Senior Project<br />The project aims to facilitate customers to order online and improve the efficiency of the coffee shop with the POS system. It also helps the coffee shop management to be more organized.<br /><br />Role/Responsibility: Design and Develop"
           skills={[
             "React.js",
             "NestJS",
@@ -42,15 +42,22 @@ function Projects() {
         <Card
           name="Money Saving Mobile Application - CashFlow"
           date="Apr 2024 - May 2024"
-          description="Project Owner and Develop"
-          skills={[".NET MAUI", "C#", "SQLite", "Figma"]}
+          description="The project help users manage their personal finances by tracking expenses, setting budgets, and providing insights into spending habits.<br /><br />Role/Responsibility: Project Owner and Develop"
+          skills={[
+            ".NET MAUI",
+            "C#",
+            "SQLite",
+            "Visual Studio",
+            "Android Studio",
+            "Figma",
+          ]}
           git="https://github.com/thanaphon-namj/cashflow"
           image={cashflow}
         />
         <Card
           name="Meme Web Application - MemeApp"
           date="Nov 2023 - Dec 2023"
-          description="Design and Develop"
+          description="The project provide a platform for users to create, share, and browse memes, focusing on humor, creativity, and user interaction.<br /><br />Role/Responsibility: Design and Develop"
           skills={[
             "Vue.js",
             "NestJS",
@@ -66,7 +73,7 @@ function Projects() {
         <Card
           name="Coffee Shop POS Web Application"
           date="Feb 2023 - Mar 2023"
-          description="Design and Develop"
+          description="The project help coffee shop owners and staff efficiently manage in-store sales transactions, customer orders, and inventory through a digital platform.<br /><br />Role/Responsibility: Design and Develop"
           skills={[
             "Vue.js",
             "TypeScript",
@@ -82,7 +89,7 @@ function Projects() {
         <Card
           name="Hotel Management System Program - Hotel Pulse"
           date="Nov 2022 - Dec 2022"
-          description="Project Owner and Develop"
+          description="The project streamline hotel operations by managing reservations, guest services, and other essential hotel functions.<br /><br />Role/Responsibility: Project Owner and Develop"
           skills={["NetBeans", "Java", "Firebase", "Figma"]}
           git="https://github.com/thanaphon-namj/hotelpulse"
           image={hotelpulse}
@@ -90,7 +97,7 @@ function Projects() {
         <Card
           name="IT Shopping Application"
           date="Oct 2022 - Nov 2022"
-          description="Design"
+          description="Design project for creating a UI/UX for an online shopping platform specializing in IT products such as computers, accessories, software, and gadgets.<br /><br />Role/Responsibility: Project Owner and Design"
           skills={["Figma"]}
           url="https://shorturl.at/nZmTU"
           image={figma}

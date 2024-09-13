@@ -17,6 +17,18 @@ function Skills() {
         <Tag>MySQL</Tag>
         <Tag>Git</Tag>
         <Tag>Docker</Tag>
+        <Tag>MongoDB</Tag>
+        <Tag>AWS</Tag>
+        <Tag>CI/CD</Tag>
+        <Tag>Debugging</Tag>
+        <Tag>Figma</Tag>
+        <Tag>Laravel</Tag>
+        <Tag>Firebase</Tag>
+        <Tag>NestJS</Tag>
+        <Tag>Tailwind CSS</Tag>
+        <Tag>C#</Tag>
+        <Tag>JSON</Tag>
+        <Tag>Python</Tag>
       </div>
     </section>
   );

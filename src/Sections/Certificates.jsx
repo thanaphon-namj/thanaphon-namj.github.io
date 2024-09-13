@@ -37,7 +37,7 @@ function Certificates() {
           image={basiccyber}
         />
         <Card
-          name="RPA Developer Foundation - UIPath"
+          name="RPA Developer Foundation - UiPath"
           date="Issued Oct 2023"
           skills={["RPA", "UiPath"]}
           download="https://drive.google.com/file/d/1LVRL4L5mtoZcdvIi6zK5EdvCLUx7HU8X/view?usp=sharing"

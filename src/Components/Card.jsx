@@ -20,7 +20,10 @@ function Card({
           <h3 className="font-semibold mt-1">{name}</h3>
           <div className="text-xs">{date}</div>
           {description !== "" && (
-            <div className="text-neutral-500 text-xs">{description}</div>
+            <div
+              className="text-neutral-500 text-xs"
+              dangerouslySetInnerHTML={{ __html: description }}
+            />
           )}
         </div>
       </div>

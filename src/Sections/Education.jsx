@@ -42,6 +42,7 @@ function Education() {
               <div className="text-xs">
                 Bachelor of Science (BS) - Information Technology
               </div>
+              <div className="text-xs">GPA. 3.28</div>
             </div>
           </div>
         </div>
