@@ -29,6 +29,8 @@ function Skills() {
         <Tag>C#</Tag>
         <Tag>JSON</Tag>
         <Tag>Python</Tag>
+        <Tag>RESTful API</Tag>
+        <Tag>GraphQL</Tag>
       </div>
     </section>
   );
