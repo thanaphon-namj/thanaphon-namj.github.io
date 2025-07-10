@@ -36,7 +36,7 @@ function Education() {
                   </svg>
                 </h3>
                 <div className="text-neutral-500 text-xs sm:text-sm text-right tabular-nums">
-                  May 2022 - Present
+                  May 2022 - Jun 2025
                 </div>
               </div>
               <div className="text-xs">
