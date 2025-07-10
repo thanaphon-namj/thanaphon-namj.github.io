@@ -9,14 +9,14 @@ function Contact() {
       </div>
       <div className="mt-5 space-y-3">
         <div className="flex flex-col justify-center gap-2">
-          <div>Mobile: 061-5530778</div>
-          <div>Email: thanaphon.namj@bumail.net</div>
+          <div>Mobile: 098-9244710</div>
+          <div>Email: thanapon.njt@gmail.com</div>
         </div>
         <div className="flex justify-center gap-5">
           <a href="https://github.com/thanaphon-namj" target="_blank">
             GitHub
           </a>
-          <a href="https://www.linkedin.com/in/thanaphon-namj" target="_blank">
+          <a href="https://www.linkedin.com/in/thanaponamj" target="_blank">
             LinkedIn
           </a>
         </div>

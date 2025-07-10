@@ -37,6 +37,7 @@ function Projects() {
             "TailwindCSS",
             "Figma",
           ]}
+          url="https://www.eosweb.shop/"
           image={csms}
         />
         <Card

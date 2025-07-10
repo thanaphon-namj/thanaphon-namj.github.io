@@ -3,9 +3,16 @@ function About() {
     <section>
       <h2 className="font-bold text-xl">About</h2>
       <div className="text-sm">
-        I am a third-year student (transfer student) in the Information
-        Technology at School of Information Technology and Innovation at Bangkok
-        University, and I am very passionate about programming.
+        - Full Stack Developer with 7+ years of experience in web and software
+        development across various industries.
+        <br />
+        - Strong expertise in JavaScript and modern web technologies, capable of
+        delivering both frontend and backend solutions.
+        <br />
+        - Quick learner with a passion for new technologies and continuous
+        improvement.
+        <br />- Experienced in Agile environments, with a focus on writing clean
+        code, effective debugging, and optimizing system performance.
       </div>
     </section>
   );
