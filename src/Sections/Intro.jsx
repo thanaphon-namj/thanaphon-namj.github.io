@@ -9,7 +9,7 @@ function Intro() {
             Hi, I&apos;m Thanaphon Namjittong 👋
           </div>
           <div className="md:text-xl">
-            Software Engineer, Full Stack Developer, Mobile Developer
+            Software Engineer, Full Stack Developer
           </div>
         </div>
         <div className="flex size-28 rounded-full overflow-hidden">
