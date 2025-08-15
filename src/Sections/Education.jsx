@@ -36,13 +36,13 @@ function Education() {
                   </svg>
                 </h3>
                 <div className="text-neutral-500 text-xs sm:text-sm text-right tabular-nums">
-                  May 2022 - Jun 2025
+                  2022 - 2025
                 </div>
               </div>
               <div className="text-xs">
                 Bachelor of Science (BS) - Information Technology
               </div>
-              <div className="text-xs">GPA. 3.28</div>
+              <div className="text-xs">GPA. 3.32</div>
             </div>
           </div>
         </div>
